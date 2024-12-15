@@ -27,7 +27,7 @@ Our robotics automation solutions offer numerous benefits, including:
 - Fostered Innovation
 
 ## Contributing
-We welcome contributions to our robotics automation solutions. If you're interested in contributing, please review our before submitting a pull request.
+We welcome contributions to our robotics automation solutions. If you're interested in contributing, please review our project docs before submitting a pull request.
 
 ## License
 Our robotics automation solutions are licensed under the (MIT License)
