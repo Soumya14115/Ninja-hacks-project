@@ -1,6 +1,6 @@
 # Robotics Automation in Industries 
 
-Transforming Industries through Robotics Automation
+## Transforming Industries through Robotics Automation
 
 We are a forward-thinking team dedicated to harnessing the power of advanced robotics, AI, and IoT to streamline operations, enhance productivity, and improve safety across various sectors.
 
@@ -30,7 +30,7 @@ Our robotics automation solutions offer numerous benefits, including:
 We welcome contributions to our robotics automation solutions. If you're interested in contributing, please review our project docs before submitting a pull request.
 
 ## License
-Our robotics automation solutions are licensed under the (MIT License)
+Our robotics automation solutions are licensed under the MIT License.
 
 ---
 
